@@ -12,6 +12,6 @@ I'm Taufik Crisnawan Santosa, a student at SMKN 2 Depok, majoring in SIJA (Syste
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harleydica&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=harleydica&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harleydica&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
